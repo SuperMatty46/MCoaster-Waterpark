@@ -3,10 +3,9 @@
 	"id": "mcoaster_waterpark",
 	"version": "${version}",
 	"name": "MCoaster Waterpark",
-	"description": ""description": "Waterpark-themed fork of MCoaster (originally Splinecart), with separate mod IDs for compatibility.",
-",
+	"description": "Waterpark-themed fork of MCoaster (originally Splinecart), with separate mod IDs for compatibility.",
 	"authors": [
-		"HelloHello"
+		"SuperMatty46"
 	],
 	"contact": {
 		"homepage": "https://github.com/SuperMatty46/MCoaster-Waterpark",
