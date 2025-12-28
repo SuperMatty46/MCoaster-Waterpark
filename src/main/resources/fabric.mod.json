@@ -1,15 +1,16 @@
 {
 	"schemaVersion": 1,
-	"id": "mcoaster",
+	"id": "mcoaster_waterpark",
 	"version": "${version}",
-	"name": "MCoaster",
-	"description": "Adds smooth Roller Coasters to Minecraft. Fork of Splinecart",
+	"name": "MCoaster Waterpark",
+	"description": ""description": "Waterpark-themed fork of MCoaster (originally Splinecart), with separate mod IDs for compatibility.",
+",
 	"authors": [
 		"HelloHello"
 	],
 	"contact": {
-		"homepage": "https://modrinth.com/mod/mcoaster",
-		"sources": "https://github.com/1HelloHello/MCoaster-1.21.3"
+		"homepage": "https://github.com/SuperMatty46/MCoaster-Waterpark",
+		"sources": "https://github.com/SuperMatty46/MCoaster-Waterpark"
 	},
 	"license": "MIT",
 	"icon": "assets/splinecart/icon.png",
